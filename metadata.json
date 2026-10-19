@@ -1,0 +1,6 @@
+{
+  "name": "VELVÉRA | Luxury 3D Beauty & Cosmetics",
+  "description": "Immersive luxury 3D makeup showroom and editorial beauty e-commerce featuring Velvet Matte Lipsticks, Glass-Skin Foundations, and couture cosmetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
