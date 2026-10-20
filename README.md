@@ -23,3 +23,9 @@ View your app in AI Studio: https://ai.studio/apps/bf096531-fdd8-435e-a1ea-9bdc6
 - Product showcase
 - Interactive 3D elements
 - Responsive website layout
+
+## Styling Features
+- Luxury-inspired visual design
+- Smooth animations and transitions
+- Product-focused layouts
+- Consistent typography and colours
