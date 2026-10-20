@@ -29,3 +29,7 @@ View your app in AI Studio: https://ai.studio/apps/bf096531-fdd8-435e-a1ea-9bdc6
 - Smooth animations and transitions
 - Product-focused layouts
 - Consistent typography and colours
+## Product Data
+- Product names and descriptions
+- Product categories
+- Product pricing information
